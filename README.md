@@ -6,7 +6,7 @@ registro em nosso banco de dados mysql, cadastrando um nome na tabela people.
 
 O retorno da aplicação node.js para o nginx deverá ser:
 
-<h1>Full Cycle Rocks!</h1>
+code(<h1>Full Cycle Rocks!</h1>)
 
 - Lista de nomes cadastrada no banco de dados.
 
